@@ -1,0 +1,40 @@
+### Build results
+.sconsign.dblite
+linux
+win32
+win64
+build
+
+### emacs backup files
+*~
+\#*
+.\#*
+
+### Misc irrlicht files
+irrlicht-1.8.1/bin/
+irrlicht-1.8.1/doc/html/
+irrlicht-1.8.1/examples/
+irrlicht-1.8.1/lib/
+irrlicht-1.8.1/media/
+irrlicht-1.8.1/source/Irrlicht/Irrlicht-gcc.cbp
+irrlicht-1.8.1/source/Irrlicht/Irrlicht.aps
+irrlicht-1.8.1/source/Irrlicht/Irrlicht.dev
+irrlicht-1.8.1/source/Irrlicht/Irrlicht.rc
+irrlicht-1.8.1/source/Irrlicht/Irrlicht10.0.sln
+irrlicht-1.8.1/source/Irrlicht/Irrlicht10.0.vcxproj
+irrlicht-1.8.1/source/Irrlicht/Irrlicht10.0.vcxproj.filters
+irrlicht-1.8.1/source/Irrlicht/Irrlicht11.0.sln
+irrlicht-1.8.1/source/Irrlicht/Irrlicht11.0.vcxproj
+irrlicht-1.8.1/source/Irrlicht/Irrlicht11.0.vcxproj.filters
+irrlicht-1.8.1/source/Irrlicht/Irrlicht8.0.sln
+irrlicht-1.8.1/source/Irrlicht/Irrlicht8.0.vcproj
+irrlicht-1.8.1/source/Irrlicht/Irrlicht9.0.sln
+irrlicht-1.8.1/source/Irrlicht/Irrlicht9.0.vcproj
+irrlicht-1.8.1/source/Irrlicht/Irrlicht_mobile6.sln
+irrlicht-1.8.1/source/Irrlicht/Irrlicht_mobile6.vcproj
+irrlicht-1.8.1/source/Irrlicht/Irrlicht_xbox.sln
+irrlicht-1.8.1/source/Irrlicht/Irrlicht_xbox.vcproj
+irrlicht-1.8.1/source/Irrlicht/SConstruct
+irrlicht-1.8.1/source/Irrlicht/source.txt
+irrlicht-1.8.1/source/source.txt
+irrlicht-1.8.1/tools/
