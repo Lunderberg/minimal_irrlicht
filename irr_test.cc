@@ -3,7 +3,6 @@
 #include <sstream>
 
 #include <irrlicht.h>
-#include "driverChoice.h"
 
 #include "EventReceiver.hh"
 #include "ProceduralTexture.hh"
