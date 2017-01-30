@@ -1,2 +1,0 @@
-CPPFLAGS = -O3
-LDFLAGS  = -s
